@@ -19,10 +19,12 @@ If any student prefers not to be included in the survey, their details can easil
 - **Survey URLs**: The `userUrls` object maps Canvas User IDs to their unique survey URLs. Customize the URLs as needed.
 - **Survey Message**: Modify the message in the banner to fit specific needs or update the incentive (e.g., promo code).
 
+## Preview
+![Banner Screenshot](./images/banner-screenshot.png)
 
 ### Contact
 For any questions or support, please feel free to reach out:
 
 - Email: [xc0009@uah.edu](mailto:xc0009@uah.edu)
 - GitHub: [https://github.com/cotitto](https://github.com/cotitto)
-- GetMeCoffe: [https://buymeacoffee.com/cotittopr] (https://buymeacoffee.com/cotittopr)
+- GetMeCoffe:(https://buymeacoffee.com/cotittopr)
