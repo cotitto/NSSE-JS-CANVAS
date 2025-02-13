@@ -27,4 +27,4 @@ For any questions or support, please feel free to reach out:
 
 - Email: [xc0009@uah.edu](mailto:xc0009@uah.edu)
 - GitHub: [https://github.com/cotitto](https://github.com/cotitto)
-- GetMeCoffe:(https://buymeacoffee.com/cotittopr)
+- Support:(https://buymeacoffee.com/cotittopr)
